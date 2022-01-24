@@ -11,16 +11,8 @@
     <?php
     include "header.php"
     ?>
-    <div class="fire-staff">
-    <h2>Fire Staff</h2>
-    <p>1. Disc at Church</p>
-    <p>2. Parts: Gen 6, Red Plane, First Panzer</p>
-    <p>3. Get Crystal at Fire tunnel near spawn</p>
-    <p>4. Craft staff at Excavation site</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-</div>
+    
+    <h2 class="fire-staff">Fire Staff</h2>
+    <p class="fire-staff">1. Disc at Church<br>2. Parts: Gen 6, Red Plane, First Panzer<br>3. Get Crystal at Fire tunnel near spawn<br>4. Craft staff at Excavation site</p>
 </body>
 </html>

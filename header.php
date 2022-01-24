@@ -35,7 +35,7 @@
                             <li class="sub-item"><a href="#">The Giant</a></li>
                             <li class="sub-item"><a href="#">Der Eisendrache</a></li>
                             <li class="sub-item"><a href="#">Zetsubou No Shima</a></li>
-                            <li class="sub-item"><a href="/Zombies/Gorod_Krovi.php">Gorod Krovi</a></li>
+                            <li class="sub-item"><a href="Gorod_Krovi.php">Gorod Krovi</a></li>
                             <li class="sub-item"><a href="#">Revelations</a></li>
                         
                         </ul>

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="header.css">
 </head>
 <body>
     <div class="container">
@@ -24,6 +24,7 @@
                             <li class="sub-item"><a href="#">Dead Of The Night</a></li>
                             <li class="sub-item"><a href="#">Ancient Evil</a></li>
                             <li class="sub-item"><a href="#">Alpha Omega</a></li>
+                            <li class="sub-item"><a href="#">Tag Der Untoten</a></li>
                         </ul>
                     </li>
                     </div>
@@ -45,7 +46,7 @@
                         <ul class="sub-menu">
                             <li class="sub-item"><a href="#">Tranzit</a></li>
                             <li class="sub-item"><a href="#">Mob Of The Dead</a></li>
-                            <li class="sub-item"><a href="#">Origins</a></li>
+                            <li class="sub-item"><a href="origins.php">Origins</a></li>
                             <li class="sub-item"><a href="#">Buried</a></li>
                             <li class="sub-item"><a href="#">Die Rise</a></li>
                         </ul>

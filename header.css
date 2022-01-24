@@ -4,10 +4,13 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-    background-color: #24252A;
+
     font-family: "Montserrat", sans-serif;
 }
 
+body, header{
+   background-color: #24252A;
+}
 
 li, a, button {
 font-weight: 500;

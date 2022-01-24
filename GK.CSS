@@ -26,8 +26,8 @@
       .grid {
         grid-template-columns: repeat(6, 1fr);
         grid-template-areas:
-        "small1 hero   hero hero med1   med1"
-        "small2 hero   hero hero med2   med2"
+        "hero hero   small1 med1 med1   med1"
+        "hero hero   small2 med2 med2   med2"
         "small3 small5 big1 big1 small7 small8"
         "small4 small6 big1 big1 small9 small10";
       }
@@ -53,10 +53,25 @@
   
   .box {
     height: 100%;
+    background:rgba(0, 0, 0, 0.25)  !important;
+    padding: 1%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
   }
   
   .grid .item {
     padding: 0.5rem;
     outline: transparent;
-    
+    color: rgb(255, 51, 0);
   }
+  p{
+    margin-top: 10px;
+    margin-left: 10px;
+  
+  }
+  .fire-staff-upgrade{
+    width: 190px;
+    border: outset 0.5px rgb(31, 22, 19);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+

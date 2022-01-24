@@ -24,6 +24,7 @@
                             <li class="sub-item"><a href="#">Dead Of The Night</a></li>
                             <li class="sub-item"><a href="#">Ancient Evil</a></li>
                             <li class="sub-item"><a href="#">Alpha Omega</a></li>
+                            <li class="sub-item"><a href="#">Tag Der Untoten</a></li>
                         </ul>
                     </li>
                     </div>

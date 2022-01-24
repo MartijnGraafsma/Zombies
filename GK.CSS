@@ -1,0 +1,8 @@
+.grid{
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 25% 25% 25%;
+    padding-block: 2rems;
+    width: min(95%, 70 rem);
+    margin-inline: auto;
+  }

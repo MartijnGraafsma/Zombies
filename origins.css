@@ -1,0 +1,71 @@
+.fire-staff-container{
+    margin-left: 10%;
+    margin-top: 60px ;
+    color: #edf0f1;
+    
+    width: 40%;
+   
+}
+
+.fire-staff{
+    margin-bottom: 20px;
+    color: red;
+}
+
+.fire-staff-step{
+    margin-top: 10px;
+}
+
+.fire-staff-upgrade{
+    width: 350px;
+}
+
+.ice-staff-container{
+    margin-left: 60%;
+    margin-top: -480px;
+    color: #edf0f1;
+    width: 40%;
+    position: absolute;
+}
+
+.ice-staff{
+    margin-bottom: 20px;
+    color: blue;
+}
+
+.ice-staff-step{
+    margin-top: 10px;
+}
+
+.lightning-staff-container{
+    margin-left: 10%;
+    margin-top: 7%;
+    color: #edf0f1;
+    width: 40%;
+}
+
+.lightning-staff{
+    margin-bottom: 20px;
+    color: blueviolet;
+}
+
+.lightning-staff-step{
+    margin-top: 10px;
+}
+
+.wind-staff-container{
+    margin-left: 60%;
+    margin-top: -470px;
+    color: #edf0f1;
+    position: absolute;
+    width: 40%;
+}
+
+.wind-staff{
+    margin-bottom: 20px;
+    color: yellow;
+}
+
+.wind-staff-step{
+    margin-top: 10px;
+}

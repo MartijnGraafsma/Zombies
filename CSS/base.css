@@ -6,7 +6,7 @@
       min-height: 100vh;
       padding: 2rem;
     }
-    
+
     .grid .item:nth-child(1)  { grid-area: g1; }
     .grid .item:nth-child(2)  { grid-area: g2; }
     .grid .item:nth-child(3)  { grid-area: g3; }

@@ -16,57 +16,17 @@
 <div class="grid">
   <div  class="item">
     <div style='border: gray 2px solid; border-top:hidden; border-left:hidden;' class="box">
+    <h2>Shield upgrade</h2><br><br>
+    <p>STEP 1. Build the shield</p><br>
+    <p>STEP 2. Get about 40/50 kills with your shield, untill you hear a ding</p><br>
+    <p>STEP 3. Shoot the keeper writing,
+      1st in the supply depot 
+  
+
     </div>
   </div>
   <div class="item">
     <div style='border: gray 2px solid; border-bottom:hidden; ' class="box">
     </div>
   </div>
-  <div class="item">
-    <div style='border: gray 2px solid; border-top:hidden; border-right:hidden;' class="box">
-    </div>
-  </div>
-  <div class="item">
-    <div style='border: gray 2px solid; border-right:hidden;' class="box">
-    </div>
-  </div>
-  <div class="item">
-    <div style='border: gray 2px solid; border-top:hidden; ' class="box">
-    </div>
-  </div>
-  <div class="item">
-    <div style='border: gray 2px solid; ' class="box">
-    </div>
-  </div>
-  <div class="item">
-    <div style='border: gray 2px solid; border-left:hidden;' class="box">
-    </div>
-  </div>
-  <div class="item">
-    <div style='border: gray 2px solid; border-left:hidden; border-bottom:hidden;' class="box">
-    </div>
-  </div>
-  <div class="item">
-    <div style='border: gray 2px solid; ' class="box">
-    </div>
-    </div>
-    <div class="item">
-    <div style='border: gray 2px solid; border-bottom:hidden;' class="box">
-    </div>
-    </div>
-    <div class="item">
-    <div style='border: gray 2px solid; ' class="box">
-    </div>
-    </div>
-    <div class="item">
-    <div style='border: gray 2px solid; border-right:hidden;' class="box">
-    </div>
-    </div>
-    <div class="item">
-    <div style='border: gray 2px solid; border-bottom:hidden;' class="box">
-    </div>
-    </div>
-    <div class="item">
-    <div style='border: gray 2px solid; border-right:hidden; border-bottom:hidden;' class="box">
-    </div>
-    </div>
+  

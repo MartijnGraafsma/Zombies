@@ -9,8 +9,8 @@
 </head>
 <body>
     <?php
-    include "header.php"
-    ?>
+        include "../Header/header.php" 
+        ?>
     <div class="fire-staff-container">
         <h2 class="fire-staff">Fire Staff</h2>
         <p class="fire-staff-step">STEP 1. Disc at Church</p>

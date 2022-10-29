@@ -26,15 +26,15 @@
       .grid {
         grid-template-columns: repeat(6, 1fr);
         grid-template-areas:
-        "hero hero hero   med1 med1   med1"
-        "hero hero hero   med2 med2   med2"
-        "small3 small5 big1 big1 small7 small8"
-        "small4 small6 big1 big1 small9 small10";
+        "hero hero hero   hero2 hero2 hero2"
+        "hero hero hero   hero2 hero2 hero2"
+        "hero hero hero   hero2 hero2 hero2"
+        "hero hero hero   hero2 hero2 hero2";
       }
     }
   
     .grid .item:nth-child(1)  { grid-area: hero; }
-    .grid .item:nth-child(2)  { grid-area: big1; }
+    .grid .item:nth-child(2)  { grid-area: hero2; }
     .grid .item:nth-child(3)  { grid-area: med1; }
     .grid .item:nth-child(4)  { grid-area: med2; }
     .grid .item:nth-child(5)  { grid-area: small1; }

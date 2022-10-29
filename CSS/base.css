@@ -14,11 +14,10 @@
         grid-template-columns: repeat(5, 1fr);
         grid-template-rows: repeat(5, 25vh);
         grid-template-areas:
-          "hero   hero   hero   med1   med1"
-          "hero   hero   hero   med2   med2"
-          "big1   big1   big1   big1   big1"
-          "small1 small2 small3 small4 small5"
-          "small6 small7 small8 small9 small10";
+        "hero hero hero   hero2 hero2 hero2"
+        "hero hero hero   hero2 hero2 hero2"
+        "hero hero hero   hero2 hero2 hero2"
+        "hero hero hero   hero2 hero2 hero2";
       }
     }
   
@@ -26,10 +25,10 @@
       .grid {
         grid-template-columns: repeat(6, 1fr);
         grid-template-areas:
-        "hero hero hero   hero2 hero2 hero2"
-        "hero hero hero   hero2 hero2 hero2"
-        "hero hero hero   hero2 hero2 hero2"
-        "hero hero hero   hero2 hero2 hero2";
+        "hero hero    med1 med1   med1"
+        "hero hero    med2 med2   med2"
+        "small3 small5 big1 big1 small7 small8"
+        "small4 small6 big1 big1 small9 small10";
       }
     }
   

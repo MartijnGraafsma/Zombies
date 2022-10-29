@@ -1,46 +1,60 @@
-.fire-staff-container{
-    color: #edf0f1;
-    width: 40%;
-}
+@supports (display: grid) {
+    /* mobile */
+    @media screen and (max-width: 650px) {
+        .grid {
+          grid-template-columns: repeat(5, 1fr);
+          grid-template-rows: repeat(5, 25vh);
+          grid-template-areas:
+          "hero hero hero hero hero hero"
+          "hero hero hero hero hero hero"
+          "hero2 hero2 hero2 hero2 hero2 hero2"
+          "hero2 hero2 hero2 hero2 hero2 hero2"
+          "med1 med1 med1 med1 med1 med1"
+          "med2 med2 med2 med2 med2 med2";
+        }
+      }
+      /* medium */
+    @media screen and (min-width: 750px) {
+      .grid {
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(5, 25vh);
+        grid-template-areas:
+          "hero   hero   hero   med1   med1"
+          "hero   hero   hero   med2   med2"
+          "big1   big1   big1   big1   big1"
+          "small1 small2 small3 small4 small5"
+          "small6 small7 small8 small9 small10";
+      }
+    }
+        /* desktop */
+    @media screen and (min-width: 1400px) {
+      .grid {
+        grid-template-columns: repeat(6, 1fr);
+        grid-template-areas:
+        "hero hero hero med1 med1 med1"
+        "hero hero hero med1 med1 med1"
+        "hero hero hero med1 med1 med1"
+        "hero2 hero2 hero2 med2 med2 med2"
+        "hero2 hero2 hero2 med2 med2 med2"
+        "hero2 hero2 hero2 med2 med2 med2";
+      }
+    }
+  
+    .grid .item:nth-child(1)  { grid-area: hero; }
+    .grid .item:nth-child(2)  { grid-area: hero2; }
+    .grid .item:nth-child(3)  { grid-area: med1; }
+    .grid .item:nth-child(4)  { grid-area: med2; }
+    .grid .item:nth-child(5)  { grid-area: small1; }
+    .grid .item:nth-child(6)  { grid-area: small2; }
+    .grid .item:nth-child(7)  { grid-area: small3; }
+    .grid .item:nth-child(8)  { grid-area: small4; }
+    .grid .item:nth-child(9)  { grid-area: small5; }
+    .grid .item:nth-child(10) { grid-area: small6; }
+    .grid .item:nth-child(11) { grid-area: small7; }
+    .grid .item:nth-child(12) { grid-area: small8; }
+    .grid .item:nth-child(13) { grid-area: small9; }
+    .grid .item:nth-child(14) { grid-area: small10; }
+  }
 
-.fire-staff{
-    color: rgb(182, 50, 50);
-}
 
-.ice-staff-container{
-    color: #edf0f1;
-    width: 40%;
-}
-
-.ice-staff{
-    color: rgb(44, 107, 167);
-}
-
-
-.lightning-staff-container{
-    color: #edf0f1;
-    width: 40%;
-}
-
-.lightning-staff{
-    color: rgb(125, 66, 180);
-}
-
-.wind-staff-container{
-    color: #edf0f1;
-    width: 40%;
-}
-
-.wind-staff{
-    color: rgb(211, 211, 73);
-}
-
-
-.easter-egg-container{
-    color: #edf0f1;
-}
-
-.easter-egg{
-    color: rgb(89, 161, 167);
-}
 

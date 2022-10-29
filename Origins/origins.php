@@ -25,7 +25,7 @@
             <h2 class="fire-staff">Upgrade</h2>
             <p class="fire-staff-step">STEP 5. Get kills on the fire grates in Crazy place</p>
             <p class="fire-staff-step">STEP 6. Do the puzzle at Church</p><br>
-            <img class="fire-staff-upgrade" src="../foto's/fire_staff.jpg">
+            <img class="fire-staff-upgrade" src="../Photos/fire_staff.jpg">
             <p class="fire-staff-step">STEP 7. Line up all gems in the Excevation site and shoot the orb</p>
             <p class="fire-staff-step">STEP 8. Place staff in the Crazy place and fill with souls</p>
         </div>
@@ -41,7 +41,7 @@
             <p class="ice-staff-step">STEP 4. Craft staff at Excavation site</p><br>
             <h2 class="ice-staff">Upgrade</h2>
             <p class="fire-staff-step">STEP 5. Solve the puzzle in the Crazy place</p><br>
-            <img class="fire-staff-upgrade" src="../foto's/ice_staff.jpg">
+            <img class="fire-staff-upgrade" src="../Photos/ice_staff.jpg">
             <p class="fire-staff-step">STEP 6. Freeze 3 gravestones with the staff and shoot them with a normal gun</p>
             <p class="fire-staff-step">- To the right of Gen 4 opposite of the soul box</p>
             <p class="fire-staff-step">- Above footprint between Gen 4 and the Excavation site</p>
@@ -61,9 +61,9 @@
             <p class="lightning-staff-step">STEP 4. Craft staff at Excavation site</p><br>
             <h2 class="lightning-staff">Upgrade</h2>
             <p class="fire-staff-step">STEP 5. Solve The puzzle in the Crazy place</p><br>
-            <img class="fire-staff-upgrade" src="../foto's/lightning_staff.jpg">
+            <img class="fire-staff-upgrade" src="../Photos/lightning_staff.jpg">
             <p class="fire-staff-step">STEP 6. Flip the switches around the map</p><br>
-            <img class="fire-staff-upgrade" src="../foto's/lightning_staff2.jpg">
+            <img class="fire-staff-upgrade" src="../Photos/lightning_staff2.jpg">
             <p class="fire-staff-step">STEP 7. Line up all gems in the Excevation site and shoot the orb</p>
             <p class="fire-staff-step">STEP 8. Place staff in the Crazy place and fill with souls</p>
         </div>
@@ -79,7 +79,7 @@
             <p class="wind-staff-step">STEP 4. Craft staff at Excavation site</p><br>
             <h2 class="wind-staff">Upgrade</h2>
             <p class="fire-staff-step">STEP 5. Solve The puzzle in the Crazy place</p><br>
-            <img class="fire-staff-upgrade" src="../foto's/wind_staff.jpg">
+            <img class="fire-staff-upgrade" src="../Photos/wind_staff.jpg">
             <p class="fire-staff-step">STEP 6. Shoot smoke orbs around the map towards The Excavation site</p>
             <p class="fire-staff-step">- Behind Stamin-Up machine at Gen 5</p>
             <p class="fire-staff-step">- Between Gen 4 and Wind tunnel</p>

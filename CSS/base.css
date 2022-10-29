@@ -6,6 +6,21 @@
       min-height: 100vh;
       padding: 2rem;
     }
+    
+    .grid .item:nth-child(1)  { grid-area: g1; }
+    .grid .item:nth-child(2)  { grid-area: g2; }
+    .grid .item:nth-child(3)  { grid-area: g3; }
+    .grid .item:nth-child(4)  { grid-area: g4; }
+    .grid .item:nth-child(5)  { grid-area: g5; }
+    .grid .item:nth-child(6)  { grid-area: g6; }
+    .grid .item:nth-child(7)  { grid-area: g7; }
+    .grid .item:nth-child(8)  { grid-area: g8; }
+    .grid .item:nth-child(9)  { grid-area: g9; }
+    .grid .item:nth-child(10) { grid-area: g10; }
+    .grid .item:nth-child(11) { grid-area: g11; }
+    .grid .item:nth-child(12) { grid-area: g12; }
+    .grid .item:nth-child(13) { grid-area: g13; }
+    .grid .item:nth-child(14) { grid-area: g14; }
   }
 
   

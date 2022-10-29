@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="GK.css">
+    <link rel="stylesheet" href="\CSS/base.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gorod Krovi</title>
 </head>
 <body>
     <?php
-        include "header.php" 
+        include "\Header\header.php" 
+        
     ?>
 
 <div class="grid">

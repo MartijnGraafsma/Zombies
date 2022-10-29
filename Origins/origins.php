@@ -81,7 +81,7 @@
         <p class="easter-egg-step">STEP 4. Deploy the maxis drone next to the open seal and kill all 6 Panzers</p>
         <p class="easter-egg-step">STEP 5. Zombie blood is needed to shoot down the glowing plane and kill the pilot zombie running around the Excavation site</p>
         <p class="easter-egg-step">he will always run clockwise</p>
-        <p class="easter-egg-step">STEP 6. Elemental knife is needed(fill all soul boxes). Go down to where you build the staffs and knife the zombies with a white glow untill a glowing stone appears</p>
+        <p class="easter-egg-step">STEP 6. Elemental fist is needed(fill all soul boxes). Go down to where you build the staffs and knife the zombies with a white glow untill a glowing stone appears</p>
         <p class="easter-egg-step">and knife the zombies with a white glow untill a glowing stone appears</p>
         <p class="easter-egg-step">STEP 7. Place all staffs in the crazy place and kill zombies untill screen flashes white</p>
         <p class="easter-egg-step">STEP 8. Deploy the maxis Drone inside the Crazy place. A portal will appear in the center of The Crazy place. press the interaction button and your done</p>

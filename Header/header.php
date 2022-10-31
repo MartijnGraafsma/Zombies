@@ -35,7 +35,7 @@
                             <li class="sub-item"><a href="#">Shadows Of Evil</a></li>
                             <li class="sub-item"><a href="#">The Giant</a></li>
                             <li class="sub-item"><a href="#">Der Eisendrache</a></li>
-                            <li class="sub-item"><a href="#">Zetsubou No Shima</a></li>
+                            <li class="sub-item"><a href="../Zetsebou_No_Shima\Zetsebou_No_Shima.php">Zetsubou No Shima</a></li>
                             <li class="sub-item"><a href="../Gorod Krovi\Gorod_Krovi.php">Gorod Krovi</a></li>
                             <li class="sub-item"><a href="#">Revelations</a></li>
                         

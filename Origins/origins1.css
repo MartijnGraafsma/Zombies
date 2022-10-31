@@ -28,5 +28,18 @@
     }
   }
 
+.fire-staff{
+  color: red;
+}
 
+.ice-staff{
+  color: cyan;
+}
 
+.lightning-staff{
+  color: purple;
+}
+
+.wind-staff{
+  color: yellow ;
+}

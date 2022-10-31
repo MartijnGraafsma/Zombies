@@ -15,24 +15,24 @@
 
 <div class="grid">
     <div  class="item">
-        <div style='border: gray 2px solid; border-top:hidden; border-left:hidden;' class="box">
+        <div class="box">
             <div class="fire-staff-container">
-            <h2 class="fire-staff">Fire Staff</h2>
+            <h2 class="fire-staff">Fire Staff</h2><br>
             <p class="fire-staff-step">STEP 1. Disc at Church</p>
             <p class="fire-staff-step">STEP 2. Parts: Gen 6, Red Plane, First Panzer</p>
             <p class="fire-staff-step">STEP 3. Get the Crystal at Fire tunnel near spawn</p>
             <p class="fire-staff-step">STEP 4. Craft staff at Excavation site</p><br>
-            <h2 class="fire-staff">Upgrade</h2>
+            <h2 class="fire-staff">Upgrade</h2><br>
             <p class="fire-staff-step">STEP 5. Get kills on the fire grates in Crazy place</p>
             <p class="fire-staff-step">STEP 6. Do the puzzle at Church</p><br>
-            <img class="fire-staff-upgrade" src="../Photos/fire_staff.jpg">
+            <img class="fire-staff-upgrade" src="../Photos/fire_staff.jpg"><br>
             <p class="fire-staff-step">STEP 7. Line up all gems in the Excevation site and shoot the orb</p>
             <p class="fire-staff-step">STEP 8. Place staff in the Crazy place and fill with souls</p>
         </div>
         </div>
     </div>
     <div class="item">
-        <div style='border: gray 2px solid; border-bottom:hidden; ' class="box">
+        <div class="box">
         <div class="ice-staff-container">
             <h2 class="ice-staff">Ice Staff</h2>
             <p class="ice-staff-step">STEP 1. Disc at Tank station</p>
@@ -52,7 +52,7 @@
         </div>
     </div>
     <div class="item">
-        <div style='border: gray 2px solid; border-top:hidden; border-right:hidden;' class="box">
+        <div class="box">
         <div class="lightning-staff-container">
             <h2 class="lightning-staff">lightning Staff</h2>
             <p class="lightning-staff-step">STEP 1. Disc near Gen 4</p>
@@ -70,7 +70,7 @@
         </div>
     </div>
     <div class="item">
-        <div style='border: gray 2px solid; border-right:hidden;' class="box">
+        <div class="box">
         <div class="wind-staff-container">
             <h2 class="wind-staff">Wind Staff</h2>
             <p class="wind-staff-step">STEP 1. Disc near Gen 5</p>

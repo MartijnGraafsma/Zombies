@@ -65,7 +65,7 @@
             <p class="fire-staff-step">STEP 6. Flip the switches around the map</p><br>
             <img class="fire-staff-upgrade" src="../Photos/lightning_staff2.jpg">
             <p class="fire-staff-step">STEP 7. Line up all gems in the Excevation site and shoot the orb</p>
-            <p class="fire-staff-step">STEP 8. Place staff in the Crazy place and fill with souls</p>
+            <p class="fire-staff-step">STEP 8. Place staff in the Crazy place and fill with souls</p><br>
         </div>
         </div>
     </div>

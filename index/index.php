@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        include "Header/header.php"
+        include "../Header/header.php"  
     ?>
 
     <h1 class="select-tekst">Select a map</h1>

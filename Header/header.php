@@ -12,7 +12,7 @@
 <body>
     <div class="container">
         <header>
-            <a href="index.php" class="logo">Zombies</a>
+            <a href="../index/index.php" class="logo">Zombies</a>
             <nav>
                 <ul class="nav_links"> 
                     <div class="dropdown">
@@ -36,7 +36,7 @@
                             <li class="sub-item"><a href="#">The Giant</a></li>
                             <li class="sub-item"><a href="#">Der Eisendrache</a></li>
                             <li class="sub-item"><a href="#">Zetsubou No Shima</a></li>
-                            <li class="sub-item"><a href="Gorod Krovi\Gorod_Krovi.php">Gorod Krovi</a></li>
+                            <li class="sub-item"><a href="../Gorod Krovi\Gorod_Krovi.php">Gorod Krovi</a></li>
                             <li class="sub-item"><a href="#">Revelations</a></li>
                         
                         </ul>
@@ -47,7 +47,7 @@
                         <ul class="sub-menu">
                             <li class="sub-item"><a href="#">Tranzit</a></li>
                             <li class="sub-item"><a href="#">Mob Of The Dead</a></li>
-                            <li class="sub-item"><a href="Origins\origins.php">Origins</a></li>
+                            <li class="sub-item"><a href="../Origins\origins.php">Origins</a></li>
                             <li class="sub-item"><a href="#">Buried</a></li>
                             <li class="sub-item"><a href="#">Die Rise</a></li>
                         </ul>

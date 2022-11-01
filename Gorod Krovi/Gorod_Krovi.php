@@ -46,7 +46,9 @@
       3rd In the tank station area<br><br>
       <img><br><br>
       4th In the spawn area<br><br>
-      <img
+      <img></p><br>
+      <p>STEP 4. Reactivate the lockdown area and get as many kills as possible with your dragon strike, if you didn't get enough reactivate the lockdown again untille you do</p>
+      <p>STEP 5. Claim the upgraded dragon strike by the crystal</p>
 
 
       </p>

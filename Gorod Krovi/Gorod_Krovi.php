@@ -25,7 +25,7 @@
       2nd in the dragon command area<br><br>
       <img src="../Photos\Keeper_writing2.png" style="width:250px; height:150px;"><br><br>
       3rd in the tank area<br><br>
-      <img src="../Photos\Keeper_writing3.png" style="width:250px; height:150px;"><br><br>
+      <img src="../Photos\Keeper_writing3.png" style="width:250px; height:150px;"></p><br>
       <p>STEP 4. stand in the fire with your shield out, untill you hear a ding</P>
       <p>STEP 5. claim the upgraded shield by the dead dragon in spawn</p><br>
     
@@ -35,6 +35,21 @@
   </div>
   <div class="item">
     <div class="box">
+      <h1>Dragon Strike Upgrade</h1><br><br>
+      <p>STEP 1. Get the dragon strike</p>
+      <p>STEP 2. Get about 40/50 kills with your dragon strike, untill you hear the dragon roar</p>
+      <p>STEP 3. Shoot 1 to 4 flags around the map (Depending on how many players are in the match),<br><br>
+      1st in the supply depot<br><br>
+      <img><br><br>
+      2nd In the dragon command<br><br>
+      <img><br><br>
+      3rd In the tank station area<br><br>
+      <img><br><br>
+      4th In the spawn area<br><br>
+      <img
+
+
+      </p>
     </div>
   </div>
   

@@ -48,7 +48,7 @@
         <b>Must be watered 3 rounds using Purple Water each round</b><br><br><br>
 
         <p class="plant-title">Fertilized Purple water plant</p>
-        <img src="../Photos/purple-water.jpg" style="width:400px; height:250px;"><br>
+        <img src="../Photos/fertilized-purple-water.jpg" style="width:400px; height:250px;"><br>
         <p>This plant is an upgraded version of the Purple Water plant and now will attract more zombies and last for longer before being destroyed</p><br>
         <b>Must be watered and shot with KT-4, 3 rounds using Purple Water each round</b><br><br><br>
 
@@ -58,7 +58,7 @@
         <b>Must be watered 3 rounds using every colored water each round</b><br><br><br>
 
         <p class="plant-title">Fertilized Fruit plant</p>
-        <img src="../Photos/fruit-plant.jpg" style="width:400px; height:250px;"><br>
+        <img src="../Photos/fertilized-fruit-plant.jpg" style="width:400px; height:250px;"><br>
         <p>This plant will give you higher chance of giving you a free random perk regardless of perk slots. You can have a free perk every time you eat the fruit of this plant in one game. also there's a big chance of getting Imprint Plant</p><br>
         <b>Must be watered and shot with KT-4, 3 rounds using every colored water each round</b><br><br><br>
 

@@ -48,7 +48,7 @@
       4th In the spawn area near quick revive<br><br>
       <img src="../Photos\flag4.jpg" style="width:250px; height:150px;"></p><br>
       <p>STEP 4. Reactivate the lockdown area and get as many kills as possible with your dragon strike, if you didn't get enough reactivate the lockdown again untill you do</p><br>
-      <p>STEP 5. Claim the upgraded dragon strike by the crystal</p>
+      <p>STEP 5. Claim the upgraded dragon strike by the crystal</p><br>
 
 
       </p>

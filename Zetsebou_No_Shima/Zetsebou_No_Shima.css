@@ -34,14 +34,16 @@
   outline: transparent;
   color: rgb(255, 255, 255);
 }
-p{
-  margin-top: 10px;
-  margin-left: 10px;
 
-}
 .fire-staff-upgrade{
   width: 190px;
   border: outset 0.5px rgb(31, 22, 19);
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
+
+.plant-title{
+  font-size: 20px;
+  text-decoration: underline;
+}
+
 

@@ -36,10 +36,7 @@
     outline: transparent;
     color: white;
   }
-  p{
-    margin-top: 10px;
-    margin-left: 10px;
-  }
+ 
   .fire-staff-upgrade{
     width: 190px;
     border: outset 0.5px rgb(31, 22, 19);
